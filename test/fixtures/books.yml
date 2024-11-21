@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyBook1
+  author: MyAuthor1
+  publication_date: 2024-11-21 17:11:11
+  rating: 1
+  status: available
+
+two:
+  title: MyBook2
+  author: MyAuthor2
+  publication_date: 2024-11-21 17:11:11
+  rating: 1
+  status: available
